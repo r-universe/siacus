@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "cem"]
+	path = cem
+	url = https://github.com/cran/cem
+[submodule "ifs"]
+	path = ifs
+	url = https://github.com/siacus/ifs
+[submodule "labstatR"]
+	path = labstatR
+	url = https://github.com/siacus/labstatr
+[submodule "nopp"]
+	path = nopp
+	url = https://github.com/siacus/nopp
+[submodule "sde"]
+	path = sde
+	url = https://github.com/siacus/sde
