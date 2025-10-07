@@ -11,9 +11,6 @@
 [submodule "labstatR"]
 	path = labstatR
 	url = https://github.com/siacus/labstatr
-[submodule "nopp"]
-	path = nopp
-	url = https://github.com/siacus/nopp
 [submodule "sde"]
 	path = sde
 	url = https://github.com/siacus/sde
